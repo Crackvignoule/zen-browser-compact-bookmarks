@@ -1,5 +1,5 @@
 # Compact Bookmarks
-Reduces padding and margins in the bookmarks folders.
+Reduces padding and margins in bookmarks folders.
 
 **Before:** | **After:**
 :-------------------------:|:-------------------------:
